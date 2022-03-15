@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+}
+#note{
+    font-size: 15px;
+    color: black;
+}
+#found_object, #status{
+    font-size: 18px;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 220px;
+}
